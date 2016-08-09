@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TouchMine</string>
+    <string name="easy">Новичок</string>
+    <string name="standard">Любитель</string>
+    <string name="professional">Профессионал</string>
+    <string name="records">Рекорды</string>
+    <string name="help">Справка</string>
+    <string name="title_activity_help">HelpActivity</string>
+    <string name="reset_record">Сбросить рекорд?</string>
+    <string name="sure_reset_record">Вы действительно хотите сбросить рекорд?</string>
+    <string name="yes_sure">Да</string>
+    <string name="no_i_dont">Нет</string>
+
+</resources>
